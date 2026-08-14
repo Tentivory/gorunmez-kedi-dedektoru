@@ -1,0 +1,13 @@
+# Görünmez Kedi Dedektörü Bağımlılıkları
+# Aslında hiçbir şeye ihtiyacı yok.
+# Ama yine de bir dosya olsun diye eklendi.
+
+# Önerilen (ama zorunlu değil):
+# - hayal gücü >= 1.0
+# - sabır >= 0.5
+# - mama (kedi için)
+
+# Python standart kütüphanesi yeterli.
+# time
+# random
+# sys
